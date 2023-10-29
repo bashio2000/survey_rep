@@ -69,8 +69,10 @@ hope = st.text_input('⑧今後のラーメンの種類やトッピングで希�
 # # HTMLコンポーネントを使用して写真を表示
 # photos_container.components.v1.html(photos_html, height=250)
 
+st.write("&nbsp;")  # スペースを挿入
+st.write('趣味で、お弁当を作っています。らーめん出店など情報はしばらく、このアカウントで発信していきたいと考えています。よければ、フォローをお願いします。')
 
-
+st.write("https://www.instagram.com/kinniku_bento/") 
 st.write("&nbsp;")  # スペースを挿入
 st.write("アンケートのご協力ありがとうございました！") 
 
